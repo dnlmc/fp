@@ -1,7 +1,7 @@
 import re
 
 # extract all <p> tags
-posts17 = friendsoup17.find_all('p')
+friend17 = friendsoup17.find_all('p')
 
 # remove html tags
 friend17clean = []   
